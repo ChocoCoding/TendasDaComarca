@@ -1,0 +1,10 @@
+
+˜	java:S116"WRename this field "id_historial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŸì$8ó–ÏÎ2J$5456cb13-3ba6-4c0e-9fc7-05ce25b36775
+›	java:S116""YRename this field "fecha_creacion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êâåû8ó–ÏÎ2J$8917b115-6dcb-41e3-8997-b710a0e255bc
+¤	java:S116&"]Rename this field "fecha_modificacion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï›˜ÿÿÿÿÿ8ó–ÏÎ2J$d78af5cb-751e-4228-b4af-07d24d4d768b
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ıÍıüÿÿÿÿ8Â±ÏÎ2
+V
+java:S1128"4Remove this unused import 'java.security.Timestamp'.(’ïĞ¦üÿÿÿÿ8Â±ÏÎ2
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8Â±ÏÎ2
